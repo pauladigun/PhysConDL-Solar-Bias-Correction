@@ -17,7 +17,7 @@ The framework introduces a novel physics-constrained deep learning approach that
 - `figure7_regional_anomalies.py` - Regional radiation anomaly analysis
 - `uncertainty_decomposition.py` - Uncertainty partitioning following Hawkins & Sutton (2009)
 - `PhyConML_framework.py` - Physics-constrained ML framework (template)
-- `README.md` - This file
+
 
 ## Key Features
 
@@ -25,10 +25,6 @@ The framework introduces a novel physics-constrained deep learning approach that
 - **Multi-Component Correction**: Three-stage pipeline including physics-based nudging, spectral correction, and machine learning refinement
 - **Regional Analysis**: Comprehensive evaluation across Africa's diverse climate zones
 - **Uncertainty Quantification**: Decomposition of model, scenario, and internal variability uncertainties
-
-## Important Notice
-
-**Research Template**: The code in this repository represents research templates and incomplete implementations. The `PhyConML_framework.py` file specifically contains an intentionally incomplete framework that demonstrates the methodology but lacks critical components necessary for full reproduction.
 
 
 ## Requirements
