@@ -111,4 +111,4 @@ This repository serves as a research template. For questions about implementatio
 **Email**: pauladigun7@gmail.com  
 **Institution**: University of Tsukuba, Department of Engineering Mechanics and Energy
 
-**Disclaimer**: Disclaimer: This repository contains research code templates and incomplete implementations. The complete, fully functional code will be made available following publication of the associated research paper. The current incomplete components are intentionally provided to demonstrate the scientific methodology while protecting intellectual property during the peer review process.
+**Disclaimer**: This repository contains research code templates and partial implementations. For access to the complete implementation, please contact the corresponding author
